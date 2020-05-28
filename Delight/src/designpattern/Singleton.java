@@ -1,13 +1,13 @@
 package designpattern;
 
 import java.io.Serializable;
-
+//variant of double check locking method
 //simple way is to make constructor private and all object final.
 public final class Singleton implements Serializable// to restrict inheriting we have to make classs final.
 {
 	private static final long serialVersionUID = 1L;
-	static Singleton obj = null; 
 	
+	static Singleton obj = null; 
 
 	private Singleton() {
 		
