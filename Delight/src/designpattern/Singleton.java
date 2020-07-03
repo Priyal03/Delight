@@ -25,7 +25,6 @@ public final class Singleton implements Serializable// to restrict inheriting we
 				obj = new Singleton();
 			}
 		}
-		
 		return obj;
 	}
 	// but this implementation is not thread safe. many threads can see "null" at
