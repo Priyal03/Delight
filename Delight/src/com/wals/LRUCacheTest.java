@@ -1,3 +1,4 @@
+package com.wals;
 //
 //
 //import static org.junit.jupiter.api.Assertions.assertEquals;

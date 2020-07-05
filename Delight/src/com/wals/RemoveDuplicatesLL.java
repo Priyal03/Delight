@@ -1,4 +1,4 @@
-package walmart;
+package com.wals;
 
 public class RemoveDuplicatesLL {
 

@@ -1,4 +1,4 @@
-package walmart;
+package com.wals;
 
 import java.util.HashMap;
 import java.util.Map;
