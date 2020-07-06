@@ -1,6 +1,6 @@
 package designpattern.factory;
 
-public abstract class Animal {
+public interface Animal {
 
 	public abstract String speak();
 }

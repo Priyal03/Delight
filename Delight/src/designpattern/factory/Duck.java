@@ -1,6 +1,6 @@
 package designpattern.factory;
 
-public class Duck extends Animal {
+public class Duck implements Animal {
 
 	@Override
 	public String speak() {

@@ -17,8 +17,8 @@ public abstract class AnimalFactory {
 			
 			animal=new SeaAnimalFactory();
 		}
-		
-		if(type.equals("landanimalfactory")) {
+		else
+		{
 			animal=new LandAnimalFactory();
 		}
 		

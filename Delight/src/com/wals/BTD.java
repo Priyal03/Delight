@@ -2,6 +2,8 @@ package com.wals;
 
 public class BTD {
 	
+}
+/**
 	public static void main(String[] args) {
 		MakeTree mk=new MakeTree();
 		
@@ -55,3 +57,4 @@ public class BTD {
 // how would we generate on this? 
 	
 }
+**/
